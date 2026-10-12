@@ -1,0 +1,11 @@
+
+{
+  "id": "[string]",
+  "name": "[string] Austin Andrews",
+  "email🔒": "[string] austin@pictogrammers.com",
+  "description": "[string] Usually a short bio",
+  "github": "[string] Templarian",
+  "core": "[boolean]",
+  "contributor": "[boolean]",
+  "iconCount": "[integer] 42"
+}
